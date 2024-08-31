@@ -51,4 +51,4 @@ The plot includes:
 
 ## Impact on Data Science Career
 
-This project showcases skills in data analysis and visualization, which are crucial for a career in data science. By working with real-world data and applying statistical techniques, you improve your ability to interpret complex datasets and communicate insights effectively.
+This project allowed me to dive into data analysis and visualization, which are essential for a career in data science. By working with real-world data and applying statistical techniques, I've learned how to better interpret complex datasets and communicate insights. I'm excited about how these new skills will enhance my career prospects and contribute to my growth as a data scientist.
