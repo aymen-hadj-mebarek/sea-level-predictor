@@ -46,6 +46,9 @@ The plot includes:
 - A red line representing the line of best fit for the entire dataset.
 - A green line representing the line of best fit for data from 2000 onwards.
 
+![Sea Level Rise Plot](sea_level_plot.png)
+
+
 ## Impact on Data Science Career
 
 This project showcases skills in data analysis and visualization, which are crucial for a career in data science. By working with real-world data and applying statistical techniques, you improve your ability to interpret complex datasets and communicate insights effectively.
